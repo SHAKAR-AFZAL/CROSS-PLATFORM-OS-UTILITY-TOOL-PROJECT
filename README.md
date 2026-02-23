@@ -101,4 +101,10 @@ A responsive desktop interface is built using **Tkinter**, ensuring consistent b
 - 🖥️ **Cross-Platform Support** — Works on Windows and Ubuntu  
 
 ---
+## Installation & Setup
 
+### 1. Clone the Repository
+
+```bash
+git clone https://github.com/your-username/cross-platform-os-utility-tool.git
+cd cross-platform-os-utility-tool
