@@ -127,7 +127,7 @@ cd cross-platform-os-utility-tool
 
 ## Future Enhancements
 
--  macOS support  
+- macOS support  
 - Automated task scheduling for cleanup and monitoring  
 - Advanced network monitoring and packet inspection  
 - Detailed logging and reporting dashboard  
