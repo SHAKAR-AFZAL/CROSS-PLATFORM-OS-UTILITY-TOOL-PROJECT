@@ -91,20 +91,74 @@ A responsive desktop interface is built using **Tkinter**, ensuring consistent b
 
 ## Key Features
 
-- 🧹 **File Cleanup** — Removes temporary files, logs, and cache  
-- 💽 **Disk Analysis** — Monitors disk usage and directory contents  
-- ⚙️ **Process Management** — View and terminate processes by PID  
-- 📊 **System Monitoring** — Real-time CPU and RAM usage  
-- 🌐 **Network Information** — Displays IP and network interfaces  
-- 🛡️ **Security Scanning** — Integrates Windows Defender and ClamAV  
-- 🚀 **Startup Manager** — View startup applications  
-- 🖥️ **Cross-Platform Support** — Works on Windows and Ubuntu  
+-  **File Cleanup** — Removes temporary files, logs, and cache  
+-  **Disk Analysis** — Monitors disk usage and directory contents  
+-  **Process Management** — View and terminate processes by PID  
+-  **System Monitoring** — Real-time CPU and RAM usage  
+-  **Network Information** — Displays IP and network interfaces  
+-  **Security Scanning** — Integrates Windows Defender and ClamAV  
+-  **Startup Manager** — View startup applications  
+-  **Cross-Platform Support** — Works on Windows and Ubuntu  
 
 ---
 ## Installation & Setup
 
 ### 1. Clone the Repository
 
-```bash
+``bash
 git clone https://github.com/your-username/cross-platform-os-utility-tool.git
 cd cross-platform-os-utility-tool
+## Supported Platforms
+
+- ✅ Windows 10 and above  
+- ✅ Ubuntu 20.04 and above  
+
+---
+
+## Testing Results
+
+- Successful cross-platform execution on Windows and Ubuntu  
+- GUI rendered consistently across both operating systems  
+- Process termination worked correctly using PID control  
+- Security scanners successfully detected potential threats  
+- Disk analysis and system monitoring performed accurately  
+
+---
+
+## Future Enhancements
+
+-  macOS support  
+- Automated task scheduling for cleanup and monitoring  
+- Advanced network monitoring and packet inspection  
+- Detailed logging and reporting dashboard  
+- Performance optimization and background services  
+
+---
+
+## Conclusion
+
+The Cross-Platform OS Utility Tool demonstrates how Python can be leveraged to build a unified and efficient system maintenance application. By combining OS abstraction, modular architecture, and a user-friendly Tkinter interface, the tool successfully performs essential administrative and monitoring tasks across multiple operating systems. This project highlights the practical application of core Operating System concepts in a real-world utility.
+
+---
+
+## Role & Contribution
+
+- System design and architecture planning  
+- OS abstraction implementation  
+- GUI development using Tkinter  
+- Process and disk management modules  
+- Security tool integration  
+- Testing and debugging  
+- Cross-platform validation  
+
+---
+
+## Authors
+
+**Mian Shakar Afzal**  
+**Muhammad Salman**  
+**Abdul Mateen Amir**  
+**Abdullah**  
+**Mohid Asmat**  
+
+**Supervisor:** Ma’am Shanza Zafar
