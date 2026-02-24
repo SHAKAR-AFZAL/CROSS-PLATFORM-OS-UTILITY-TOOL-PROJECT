@@ -162,3 +162,5 @@ The Cross-Platform OS Utility Tool demonstrates how Python can be leveraged to b
 **Mohid Asmat**  
 
 **Supervisor:** Ma’am Shanza Zafar
+
+[LinkedIn](https://www.linkedin.com/in/mian-shakar-afzal-959b443a8/) | [GitHub](https://github.com/SHAKAR-AFZAL) | [Email](mailto:mianshakarafzal@gmail.com)
