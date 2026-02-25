@@ -33,7 +33,7 @@ The system demonstrates practical implementation of **Operating System concepts*
 
 ## Project Objective
 
-The primary goals of this project are :
+The primary goals of this project are:
 
 - Build a unified cross-platform utility tool  
 - Automate common system maintenance tasks  
