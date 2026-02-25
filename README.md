@@ -137,7 +137,7 @@ cd cross-platform-os-utility-tool
 
 ## Conclusion
 
-The Cross-Platform OS Utility Tool demonstrates how Python can be leveraged to build a unified and efficient system maintenance application. By combining OS abstraction, modular architecture, and a user-friendly Tkinter interface, the tool successfully performs essential administrative and monitoring tasks across multiple operating systems. This project highlights the practical application of core Operating System concepts in a real-world utility.
+The Cross-Platform OS Utility Tool demonstrates that how Python can be leveraged to build a unified and efficient system maintenance application. By combining OS abstraction, modular architecture, and a user-friendly Tkinter interface, the tool successfully performs essential administrative and monitoring tasks across multiple operating systems. This project highlights the practical application of core Operating System concepts in a real-world utility.
 
 ---
 
