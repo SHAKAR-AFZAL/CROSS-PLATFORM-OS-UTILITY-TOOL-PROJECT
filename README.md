@@ -27,7 +27,7 @@ Modern operating systems require regular maintenance to ensure optimal performan
 
 This project presents a **Python-based Cross-Platform OS Utility Tool** that provides essential maintenance and monitoring features through a single unified desktop interface.
 
-The system demonstrates practical implementation of **Operating System concepts** while maintaining a clean and user-friendly experience.
+The system demonstrates practical implementation of **Operating System concepts** while maintaining the clean and user-friendly experience.
 
 ---
 
