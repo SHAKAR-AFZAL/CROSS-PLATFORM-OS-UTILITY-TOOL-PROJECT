@@ -56,7 +56,7 @@ The application is organized into modular components:
 - **Disk Analyzer** — Monitors disk usage and directories  
 - **System Monitor** — Tracks CPU and RAM usage  
 - **Network Info Module** — Displays IP and interfaces  
-- **Security Scanner** — Integrates Windows Defender and ClamAV  
+- **Security Scanner** — Integrates the Windows Defender and ClamAV  
 - **Startup Manager** — Views startup applications  
 
 ---
