@@ -31,7 +31,7 @@ The system demonstrates practical implementation of **Operating System concepts*
 
 ---
 
-## Project Objective
+## Project Objectives
 
 The primary goals of this project are:
 
