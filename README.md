@@ -79,7 +79,7 @@ The application is organized into modular components:
 The system detects the host operating system using the **platform** module and routes commands accordingly.
 
 ### Command Execution
-System-level operations are performed using Python’s **subprocess** module to ensure real interaction with the OS.
+System-level operations are performed using Python **subprocess** module to ensure real interaction with the OS.
 
 ### Modular Design
 Each feature is implemented in separate modules to maintain scalability, readability, and maintainability.
