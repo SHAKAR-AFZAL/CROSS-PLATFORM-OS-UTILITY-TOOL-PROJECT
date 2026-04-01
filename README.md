@@ -1,4 +1,4 @@
-# 🖥️ Cross-Platform OS Utility Tool — Python-Based System Maintenance Suite
+# 🖥️ Cross-Platform OS Utility Tool Python-Based System Maintenance Suite
 
 _A powerful cross-platform desktop application that performs system cleanup, monitoring, process control, and security scanning across Windows and Linux using a unified Python interface._
 
