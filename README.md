@@ -47,7 +47,7 @@ The primary goals of this project are:
 
 ## System Modules
 
-The application is organized into modular components:
+The application is organized into the modular components:
 
 - **OS Detection Module** — Identifies Windows or Linux environment  
 - **Command Runner** — Executes platform-specific commands  
