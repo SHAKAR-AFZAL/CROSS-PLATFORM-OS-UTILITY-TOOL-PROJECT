@@ -117,7 +117,7 @@ cd cross-platform-os-utility-tool
 
 ## Testing Results
 
-- Successful cross-platform execution on Windows and Ubuntu  
+- Successful cross platform execution on Windows and Ubuntu  
 - GUI rendered consistently across both operating systems  
 - Process termination worked correctly using PID control  
 - Security scanners successfully detected potential threats  
