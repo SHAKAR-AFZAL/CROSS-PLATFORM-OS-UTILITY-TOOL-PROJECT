@@ -35,7 +35,7 @@ The system demonstrates practical implementation of **Operating System concepts*
 
 The primary goals of this project are:
 
-- Build a unified cross-platform utility tool  
+- Build a unified cross platform utility tool  
 - Automate common system maintenance tasks  
 - Provide real-time system monitoring  
 - Enable process and disk management  
