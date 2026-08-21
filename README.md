@@ -39,7 +39,7 @@ The primary goals of this project are:
 - Automate common system maintenance tasks  
 - Provide real-time system monitoring  
 - Enable process and disk management  
-- Integrate built-in security scanning  
+- Integrate built in security scanning  
 - Demonstrate core Operating System concepts  
 - Deliver a user-friendly desktop GUI  
 
